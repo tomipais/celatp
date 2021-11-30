@@ -1,0 +1,99 @@
+body {
+    background-image: url(./img/cosculogo.png );
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: royalblue;
+}
+
+img {
+    height: 30%;
+    width: 30%;
+}
+
+.parrafos {
+    font-weight: bold;
+    background-color: rgb(253, 173, 165);
+    font-family: 'Montagu Slab', serif;
+    margin-top: 10px;
+    padding-left: 20px;
+}
+
+.titulos {
+    font-family: 'Bebas Neue', fantasy;
+    color: black;
+    align-content: center;
+    margin-bottom: 40px;
+    padding-left: 15px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+footer {
+    margin-top: 15px;
+    background-color: seagreen;
+    color: black;
+}
+
+.boton {
+    color: red;
+    padding: 10px;
+    background-color: seagreen;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.iframe {
+    float: right;
+}
+
+.derecha {
+    clear: both;
+}
+
+.pparafo {
+    margin-top: 30px;
+}
+
+#ir-arriba {
+    margin-top: 30px;
+}
+
+#COSCU {
+    margin-bottom: 30px;
+}
+
+.btn:hover {
+    border-radius: 50px;
+}
+
+.btn-danger {
+    margin-right: 10px;
+}
+
+.btn-success {
+    margin-left: 10px;
+}
+
+.navigation {
+    margin-bottom: 40px;
+    margin-left: 10px;
+}
+
+#h1ppal {
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+.cards {
+    display: flex;
+    height: 400px;
+}
+
+#IRL,
+#LOL {
+    margin-right: 30px;
+    margin-left: 30px;
+}
